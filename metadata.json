@@ -1,0 +1,6 @@
+{
+  "name": "XASİL Browser",
+  "description": "Turkish-themed mobile web browser interface with modern navigation and dark-mode homepage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
